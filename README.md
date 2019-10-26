@@ -1,7 +1,7 @@
-# Elypia Font [![Discord][discord-members]][discord] [![Donate][donate-shield]][elypia-donate]
+# Elypian Display [![Discord][discord-members]][discord] [![Donate][donate-shield]][elypia-donate]
 
 ## About
-A font based on the Elypia logo to write more sexy things to go with it.
+A font based on the Elypia logo to write more sexy things to go with it.  
 This project contains all SVGs (Scalable Vector Graphics) for each character,
 and a SFD (Spline Font Database) to maintain and export the font files.
 
