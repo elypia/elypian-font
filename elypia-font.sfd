@@ -1,0 +1,200 @@
+SplineFontDB: 3.0
+FontName: Elypia-Font
+FullName: Elypia Font
+FamilyName: Elypia
+Weight: Regular
+Copyright: Copyright 2019-2019 Elypia CIC\n\nLicensed under the Apache License, Version 2.0 (the "License");\nyou may not use this file except in compliance with the License.\nYou may obtain a copy of the License at\n\n    http://www.apache.org/licenses/LICENSE-2.0\n\nUnless required by applicable law or agreed to in writing, software\ndistributed under the License is distributed on an "AS IS" BASIS,\nWITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\nSee the License for the specific language governing permissions and\nlimitations under the License.
+UComments: "2019-10-26: Created with FontForge (http://fontforge.org)"
+Version: 1.0.0
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 800
+Descent: 200
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+XUID: [1021 353 -130540722 15807660]
+FSType: 0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1572048009
+ModificationTime: 1572063082
+PfmFamily: 17
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 90
+VLineGap: 0
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 90
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+MarkAttachClasses: 1
+DEI: 91125
+LangName: 1033
+Encoding: ISO8859-1
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 0 22 12
+BeginPrivate: 0
+EndPrivate
+TeXData: 1 0 0 1048576 524288 349525 418382 1048576 349525 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
+BeginChars: 256 6
+
+StartChar: E
+Encoding: 69 69 0
+Width: 490
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+26 696 m 1
+ 460 696 l 1
+ 396 632 l 1
+ 90 632 l 1
+ 26 568 l 1
+ 26 696 l 1
+26 399 m 1
+ 310 399 l 1
+ 246 335 l 1
+ 26 335 l 1
+ 26 399 l 1
+26 64 m 1
+ 396 64 l 1
+ 460 0 l 1
+ 26 0 l 1
+ 26 64 l 1
+EndSplineSet
+EndChar
+
+StartChar: l
+Encoding: 108 108 1
+Width: 133
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+32 696 m 1
+ 96 630 l 1
+ 96 0 l 1
+ 32 0 l 1
+ 32 696 l 1
+EndSplineSet
+EndChar
+
+StartChar: y
+Encoding: 121 121 2
+Width: 376
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+68 399 m 1
+ 132 335 l 1
+ 132 64 l 1
+ 196 64 l 1
+ 196 0 l 1
+ 132 0 l 1
+ 68 64 l 1
+ 68 399 l 1
+324 399 m 1
+ 324 -64 l 1
+ 260 -128 l 1
+ 260 335 l 1
+ 324 399 l 1
+EndSplineSet
+EndChar
+
+StartChar: p
+Encoding: 112 112 3
+Width: 356
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+42 399 m 1
+ 106 335 l 1
+ 106 -128 l 1
+ 42 -64 l 1
+ 42 399 l 1
+298 399 m 1
+ 298 64 l 1
+ 234 0 l 1
+ 170 0 l 1
+ 170 64 l 1
+ 234 64 l 1
+ 234 335 l 1
+ 170 335 l 1
+ 234 399 l 1
+ 298 399 l 1
+EndSplineSet
+EndChar
+
+StartChar: i
+Encoding: 105 105 4
+Width: 168
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+52 271 m 1
+ 116 271 l 1
+ 116 0 l 1
+ 52 0 l 1
+ 52 271 l 1
+52 399 m 1
+ 117 398.998046875 l 1
+ 116 335 l 1
+ 52 399 l 1
+EndSplineSet
+EndChar
+
+StartChar: a
+Encoding: 97 97 5
+Width: 418
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+46 335 m 1
+ 110 399 l 1
+ 174 399 l 1
+ 174 335 l 1
+ 110 335 l 1
+ 110 64 l 1
+ 174 64 l 1
+ 110 0 l 1
+ 46 0 l 1
+ 46 335 l 1
+302 335 m 1
+ 302 64 l 1
+ 366 64 l 1
+ 302 0 l 1
+ 238 64 l 1
+ 238 398.998046875 l 1
+ 302 335 l 1
+EndSplineSet
+EndChar
+EndChars
+EndSplineFont
