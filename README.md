@@ -9,7 +9,7 @@ and a SFD (Spline Font Database) to maintain and export the font files.
 
 ## FontForge
 This font is being made and maintained using [FontForge][fontforge], a completely free and
-open-source, font editor that works on all major operating systems.
+open-source font editor that works on all major operating systems.
 
 You can find their [GitHub repository here][font-forge-git]!
 
