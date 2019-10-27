@@ -25,7 +25,7 @@ The Elypia logo and font follow a specification to ensure consistency throughout
 all characters, and to objectively determine the optimal or most correct shape for them.
 
 * Each strip must be a square of one grid cell or rectangle that is one cell wide.
-* Strips map start with a slant by cutting off one or both sides.
+* Strips may start with a slant by cutting one or both sides.
 * Only the shorter side may be slanted.
 * All slants that appear must slant at a 45 degree angle.
 * Parralel slants should not be within one grid cell of eachother.
@@ -33,8 +33,6 @@ all characters, and to objectively determine the optimal or most correct shape f
 * All characters are a fixed 2 grid cells away from eachother.
 * If a slant occurs between two strips that represent the same character,
 the angle should face upwards or downwards _towards_ the corresponding strip. 
-
-## 
 
 ## FontForge
 This font is being made and maintained using [FontForge][fontforge], a completely free and

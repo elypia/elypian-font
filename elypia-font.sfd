@@ -1,7 +1,7 @@
 SplineFontDB: 3.0
-FontName: Elypian
+FontName: Elypian-Display
 FullName: Elypian Display
-FamilyName: Display
+FamilyName: Elypian
 Weight: Regular
 Copyright: Copyright (c) 2019-2019, Elypia CIC (https://elypia.org/),\nCopyright (c) 2019-2019, SevDev (me@sevdev.top),\nCopyright (c) 2019-2019, Vukory,\nwith Reserved Font Name Elypian.\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is copied below, and is also available with a FAQ at:\nhttp://scripts.sil.org/OFL
 UComments: "2019-10-26: Created with FontForge (http://fontforge.org)"
@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1572048009
-ModificationTime: 1572196608
+ModificationTime: 1572213888
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
