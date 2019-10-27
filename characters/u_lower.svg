@@ -12,7 +12,7 @@
    width="1e3"
    height="1e3"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="o_lower.svg"
+   sodipodi:docname="u_lower.svg"
    version="1.1"
    viewBox="0 0 264.58333 264.58334"
    id="svg864">
@@ -24,7 +24,7 @@
      borderopacity="1.0"
      inkscape:current-layer="g862"
      inkscape:cx="453.45917"
-     inkscape:cy="523.90269"
+     inkscape:cy="513.28231"
      inkscape:document-units="mm"
      inkscape:guide-bbox="true"
      inkscape:lockguides="false"
@@ -76,13 +76,13 @@
      id="g862">
     <path
        style="fill:#000000;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
-       d="M 22.04861,230.85415 V 120.6111 L 0,142.65971 v 66.14583 z"
-       id="path1176"
+       d="M 0,120.6111 V 230.85415 H 44.09722 V 208.80554 H 22.04861 v -66.14583 z"
+       id="path1268"
        inkscape:connector-curvature="0" />
     <path
        style="fill:#000000;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
-       d="M 44.09722,230.85415 H 66.14583 L 88.19444,208.80554 V 142.65971 L 66.14583,120.6111 H 44.09722 v 22.04861 h 22.04861 v 66.14583 H 44.09722 Z"
-       id="path1178"
+       d="M 110.24305,208.80554 88.19444,230.85415 66.14583,208.80554 V 120.6111 l 22.04861,22.04861 v 66.14583 z"
+       id="path1270"
        inkscape:connector-curvature="0" />
   </g>
 </svg>
