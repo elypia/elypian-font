@@ -1,4 +1,4 @@
-# Elysian Display [![Discord][discord-members]][discord] [![Donate][donate-shield]][elypia-donate]
+# Elypian Font [![Discord][discord-members]][discord] [![Donate][donate-shield]][elypia-donate]
 
 ## About
 A font based on the Elypia logo to write more sexy things to go with it.  
