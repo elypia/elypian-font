@@ -33,6 +33,7 @@ all characters, and to objectively determine the optimal or most correct shape f
 * All characters are a fixed 2 grid cells away from eachother.
 * If a slant occurs between two strips that represent the same character,
 the angle should face upwards or downwards _towards_ the corresponding strip. 
+* All folds that occur must result in the folded side being slanted.
 
 ## FontForge
 This font is being made and maintained using [FontForge][fontforge], a completely free and
