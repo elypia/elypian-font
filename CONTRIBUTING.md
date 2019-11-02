@@ -9,7 +9,7 @@ but was easily distinguishable from what other brands use.
 The specification and guidelines have been optimized to accommodate the glyphs
 in the brand name, "Elypia", and then applied to all other glyphs.
 
-This logo is completely free open-source so anyone can use it for any
+This font is completely free open-source so anyone can use it for any
 purpose, including for their own logo, titles or subheadings, or even
 content for a document or website... though we definitely _wouldn't_ recommend the latter!
 
@@ -23,7 +23,7 @@ The glyphs didn't have to look perfect, but complete the character enough
 that any reasonable person would be able to read a large title or heading.
 
 ### Grid
-The logo is based on a grid backing it which is 12 grid-cells high. There
+The font is based on a grid backing it which is 12 grid-cells high. There
 is no minimum or maximum width any character has to be. 
 The bottom 3 cells are below the writing line, for characters like `y`, or `p`, while the 9 cells above are starting at the writing line working up.
 
