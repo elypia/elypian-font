@@ -42,28 +42,37 @@ will only ever be filled completely, or half-filled from opposite corners.
 * Only the shorter side may be slanted.
 
 ![shapes]
+> Their shouldn't be any curves, points in between two grid cells, or slants that are anything other than 45 degrees.
+
+### Folds
+* All folds that occur must result in the folded side being slanted.
+
+![folds]
+> When folding a strip, the folded angle will always result in a slant regardless of what may appear behind the letter after the fold. Behind the fold, it can be straight or slanted because we allow strips to begin with a slant on one or both sides as well. 
 
 ### Spacing
 * Parallel slants should not be within one grid cell of each other.
+* All apertures must be 2 grid cells wide.
+* All characters are a fixed 2 grid cells away from each other.
 
 ![parallel_slants]
-
 > The font needs to look good when flattened to a single color, unfortunately
 > when this rule is not followed the E looks malformed and out of place
 > so there must be at least one grid-cell of space between parallel slants.
 
-* All apertures must be 2 grid cells wide.
-* All characters are a fixed 2 grid cells away from each other.
-
 ![apertures]
 > There is no requirement of the height of apertures, however, the width of all aperatures must be consistently 2 grid-cells wide.
 
+### Connecting Strips
 * If a slant occurs between two strips that represent the same character,
 the angle should face upwards or downwards _towards_ the corresponding strip. 
-* All folds that occur must result in the folded side being slanted.
+
+![connect]
 
 [elypia_logo_text]: ./assets/elypia_logo_text.png "Elypia Logo with Text"
 [grid]: ./assets/grid.png "Elypia Logo Grid"
 [shapes]: ./assets/shapes.png "Good and Bad Examples of Shapes"
+[folds]: ./assets/folds.png "Good and Bad Examples of Folds"
 [parallel_slants]: ./assets/parallel_slants.png "Good and Bad Examples of Slants"
 [apertures]: ./assets/apertures.png "Good and Bad Examples of Apertures"
+[connect]: ./assets/connecting_strips.png "Good and Bad Examples of Connecting Strips"
