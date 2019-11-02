@@ -12,7 +12,7 @@
    width="319.67999mm"
    height="89.329002mm"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="aperatures.svg"
+   sodipodi:docname="apertures.svg"
    version="1.1"
    viewBox="0 0 319.67997 89.329001"
    id="svg9003"
@@ -168,7 +168,7 @@
        y2="270.36002"
        gradientUnits="userSpaceOnUse"
        inkscape:collect="always"
-       gradientTransform="translate(44.400001,4.6737109e-4)">
+       gradientTransform="translate(53.28001,2.881378e-5)">
       <stop
          stop-color="#fff"
          offset="0"
@@ -235,8 +235,8 @@
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:current-layer="g9001"
-     inkscape:cx="686.61433"
-     inkscape:cy="250.65078"
+     inkscape:cx="464.64526"
+     inkscape:cy="297.456"
      inkscape:document-units="mm"
      inkscape:pagecheckerboard="true"
      inkscape:pageopacity="0.50196078"
@@ -246,7 +246,7 @@
      inkscape:window-width="1869"
      inkscape:window-x="1971"
      inkscape:window-y="0"
-     inkscape:zoom="1"
+     inkscape:zoom="0.70710678"
      pagecolor="#000000"
      showgrid="true"
      units="mm">
@@ -317,7 +317,7 @@
        id="path8973"
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
-       d="m 133.2008,225.96045 8.8802,7.39994 2.4e-4,37.00007 c 0,0 -8.88002,-7.4003 -8.88024,-7.40031 z" />
+       d="m 133.2008,225.96045 8.8802,7.39994 2.4e-4,37.00007 c 0,0 -8.88102,-8.88043 -8.88124,-8.88044 z" />
     <path
        style="fill:#ffffff;stroke-width:0.06838761"
        id="path8981"
@@ -404,7 +404,7 @@
        id="path8973-6"
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
-       d="m 310.79979,224.48032 8.8802,7.39994 2.4e-4,37.00007 c 0,0 -8.88002,-7.4003 -8.88024,-7.40031 z" />
+       d="m 310.79999,225.96002 8.8802,7.39994 2.4e-4,37.00007 c 0,0 -8.88022,-8.88 -8.88044,-8.88001 z" />
     <path
        style="fill:#ffffff;stroke-width:0.06838761"
        id="path8981-8"
@@ -418,7 +418,7 @@
        id="path8985-8"
        style="opacity:0.5;fill:url(#linearGradient6042-3);stroke-width:0.07330012" />
     <path
-       d="m 310.79999,261.48047 h 8.88 l -8.88,8.88043 z"
+       d="m 319.67999,261.48002 h 8.88 l -8.88,8.88043 z"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc"
        id="path8987-4"
