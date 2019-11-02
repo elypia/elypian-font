@@ -56,7 +56,7 @@ will only ever be filled completely, or half-filled from opposite corners.
 * All characters are a fixed 2 grid cells away from each other.
 
 ![apertures]
-> There is no requirement of the height of apertures. However, the width of all aperatures must be consistently 2 grid-cells wide.
+> There is no requirement of the height of apertures, however, the width of all aperatures must be consistently 2 grid-cells wide.
 
 * If a slant occurs between two strips that represent the same character,
 the angle should face upwards or downwards _towards_ the corresponding strip. 
