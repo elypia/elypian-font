@@ -48,7 +48,7 @@ will only ever be filled completely, or half-filled from opposite corners.
 
 ![parallel_slants]
 
-> The font needs to look good when flattened, to a single color, unfortunatly
+> The font needs to look good when flattened to a single color, unfortunatly
 > when this rule is not followed the E looks malformed and out of place
 > so there must be at least one grid-cell of space between parralel slants.
 
@@ -62,8 +62,8 @@ will only ever be filled completely, or half-filled from opposite corners.
 the angle should face upwards or downwards _towards_ the corresponding strip. 
 * All folds that occur must result in the folded side being slanted.
 
-[elypia_logo_text]: ./assets/elypia_logo_text.svg "Elypia Logo with Text"
+[elypia_logo_text]: ./assets/elypia_logo_text.png "Elypia Logo with Text"
 [grid]: ./assets/grid.png "Elypia Logo Grid"
-[shapes]: ./assets/shapes.svg "Good and Bad Examples of Shapes"
-[parallel_slants]: ./assets/parallel_slants.svg "Good and Bad Examples of Slants"
-[aperatures]: ./assets/aperatures.svg "Good and Bad Examples of Aperatures"
+[shapes]: ./assets/shapes.png "Good and Bad Examples of Shapes"
+[parallel_slants]: ./assets/parallel_slants.png "Good and Bad Examples of Slants"
+[aperatures]: ./assets/aperatures.png "Good and Bad Examples of Aperatures"
