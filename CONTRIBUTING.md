@@ -4,14 +4,14 @@ Elypia wanted to create a simple, abstract, and unique text based
 logo that could be used by third-parties to reference us, while 
 providing something users could read and search on their own. 
 To achieve this we wanted to create a font that looked good, 
-but was easily distingushable from what other brands use.
+but was easily distinguishable from what other brands use.
 
-The specification and guidelines have been optimized to accomodate the glyphs
+The specification and guidelines have been optimized to accommodate the glyphs
 in the brand name, "Elypia", and then applied to all other glyphs.
 
 This logo is completely free open-source so anyone can use it for any
 purpose, including for their own logo, titles or subheadings, or even
-content for a document or website... though we definetly _wouldn't_ recommend the latter!
+content for a document or website... though we definitely _wouldn't_ recommend the latter!
 
 #### Elypia Logo with Text
 ![elypia_logo_text]
@@ -44,19 +44,19 @@ will only ever be filled completely, or half-filled from opposite corners.
 ![shapes]
 
 ### Spacing
-* Parralel slants should not be within one grid cell of eachother.
+* Parallel slants should not be within one grid cell of each other.
 
 ![parallel_slants]
 
-> The font needs to look good when flattened to a single color, unfortunatly
+> The font needs to look good when flattened to a single color, unfortunately
 > when this rule is not followed the E looks malformed and out of place
-> so there must be at least one grid-cell of space between parralel slants.
+> so there must be at least one grid-cell of space between parallel slants.
 
 * All apertures must be 2 grid cells wide.
-* All characters are a fixed 2 grid cells away from eachother.
+* All characters are a fixed 2 grid cells away from each other.
 
-![aperatures]
-> There is no requirement of the height of aperatures. However the width of all aperatures must be consistently 2 grid-cells wide.
+![apertures]
+> There is no requirement of the height of apertures. However, the width of all aperatures must be consistently 2 grid-cells wide.
 
 * If a slant occurs between two strips that represent the same character,
 the angle should face upwards or downwards _towards_ the corresponding strip. 
@@ -66,4 +66,4 @@ the angle should face upwards or downwards _towards_ the corresponding strip.
 [grid]: ./assets/grid.png "Elypia Logo Grid"
 [shapes]: ./assets/shapes.png "Good and Bad Examples of Shapes"
 [parallel_slants]: ./assets/parallel_slants.png "Good and Bad Examples of Slants"
-[aperatures]: ./assets/aperatures.png "Good and Bad Examples of Aperatures"
+[apertures]: ./assets/apertures.png "Good and Bad Examples of Apertures"

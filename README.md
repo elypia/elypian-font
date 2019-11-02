@@ -23,7 +23,7 @@ don't be afraid to derive or reference from this project however you want, but
 please rename your derivative work so it does not conflict with this.
 
 **All files including videos, models, audio, bitmaps, vectors, and 
-animations such as gifs, found in the `./assets/` directory, are not under the aforementioned license; all rights are reserved by Elypia CIC.** 
+animations such as GIFs, found in the `./assets/` directory, are not under the aforementioned license; all rights are reserved by Elypia CIC.** 
 
 [discord]: https://discord.gg/hprGMaM "Discord Invite"
 [discord-members]: https://discordapp.com/api/guilds/184657525990359041/widget.png "Discord Shield"
