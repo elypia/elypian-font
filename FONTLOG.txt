@@ -1,0 +1,37 @@
+FONTLOG for the Elypian fonts
+
+This file provides detailed information on the Elypian family of fonts.
+This information should be distributed along with the Elypian fonts and
+any derivative works.
+
+Basic Font Information
+
+Elypian is a display type font designed primiarly for logos, and 
+titles. This font is inspired by origami; we imagine all glyphs
+are made from strips of paper which may be folded to create
+shapes forming abstract glyphs.
+
+This is an elegant and modern take on an origami based font which is
+designed to look good, even when flattened as a plain
+single color Open-Type or True-Type font.
+
+ChangeLog
+
+dd mmm yyyy (Arsène Laeuffer, Syed Shah) Elypian v1.000
+- Unreleased
+
+Acknowledgements
+
+If you make modifications be sure to add your name (N), 
+email (E), web-address (if you have one) (W) and 
+description (D). This list is in alphabetical order.
+
+N: Arsène Laeuffer
+E: me@sevdev.top
+W: https://sevdev.top/
+D: Original Designer
+
+N: Syed Shah
+E: seth@elypia.org
+W: https://elypia.org/
+D: Created Vectors, Font Mastering
