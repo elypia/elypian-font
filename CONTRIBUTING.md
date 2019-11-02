@@ -58,7 +58,7 @@ will only ever be filled completely, or half-filled from opposite corners.
 ![parallel_slants]
 > The font needs to look good when flattened to a single color, unfortunately
 > when this rule is not followed the E looks malformed and out of place
-> so there must be at least one grid-cell of space between parallel slants.
+> so there must be at least two grid-cell of space between parallel slants.
 
 ![apertures]
 > There is no requirement of the height of apertures, however, the width of all aperatures must be consistently 2 grid-cells wide.
