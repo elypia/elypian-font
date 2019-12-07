@@ -12,7 +12,7 @@
    width="1e3"
    height="1e3"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="c_lower.svg"
+   sodipodi:docname="r_lower.svg"
    version="1.1"
    viewBox="0 0 264.58333 264.58334"
    id="svg864">
@@ -23,8 +23,8 @@
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:current-layer="g862"
-     inkscape:cx="-84.076445"
-     inkscape:cy="464.84544"
+     inkscape:cx="12.224538"
+     inkscape:cy="513.28231"
      inkscape:document-units="mm"
      inkscape:guide-bbox="true"
      inkscape:lockguides="false"
@@ -36,7 +36,7 @@
      inkscape:window-width="1873"
      inkscape:window-x="47"
      inkscape:window-y="0"
-     inkscape:zoom="1"
+     inkscape:zoom="0.70710678"
      pagecolor="#ffffff"
      showgrid="true"
      showguides="true"
@@ -76,9 +76,15 @@
      id="g862">
     <path
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 22.04861,230.85415 66.14583,0 -22.04861,-22.04861 -44.09722,0 v -66.14583 l 44.09722,0 22.04861,-22.04861 -66.14583,0 L 0,142.65971 v 66.14583 z"
-       id="path969"
+       d="M 22.04861,230.85415 H 0 V 142.65971 L 22.04861,120.6111 Z"
+       id="path1243"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccc" />
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 44.09722,120.6111 0,22.04861 c 14.699073,0 29.398147,0 44.09722,0 L 66.14583,120.6111 Z"
+       id="path1245"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
   </g>
 </svg>

@@ -17,7 +17,7 @@ single color Open-Type or True-Type font.
 
 ChangeLog
 
-dd mmm yyyy (Arsène Laeuffer, Syed Shah) Elypian v1.000
+dd mmm yyyy (Arsène Laeuffer, Seth Falco) Elypian v1.000
 - Unreleased
 
 Acknowledgements
@@ -31,7 +31,7 @@ E: me@sevdev.top
 W: https://sevdev.top/
 D: Original Designer
 
-N: Syed Shah
+N: Seth Falco
 E: seth@elypia.org
 W: https://elypia.org/
 D: Created Vectors, Font Mastering

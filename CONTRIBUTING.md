@@ -69,10 +69,10 @@ the angle should face upwards or downwards _towards_ the corresponding strip.
 
 ![connect]
 
-[elypia_logo_text]: ./assets/elypia_logo_text.png "Elypia Logo with Text"
+[elypia_logo_text]: ./assets/elypia_logo_text.svg "Elypia Logo with Text"
 [grid]: ./assets/grid.png "Elypia Logo Grid"
-[shapes]: ./assets/shapes.png "Good and Bad Examples of Shapes"
-[folds]: ./assets/folds.png "Good and Bad Examples of Folds"
-[parallel_slants]: ./assets/parallel_slants.png "Good and Bad Examples of Slants"
-[apertures]: ./assets/apertures.png "Good and Bad Examples of Apertures"
-[connect]: ./assets/connecting_strips.png "Good and Bad Examples of Connecting Strips"
+[shapes]: ./assets/shapes.svg "Good and Bad Examples of Shapes"
+[folds]: ./assets/folds.svg "Good and Bad Examples of Folds"
+[parallel_slants]: ./assets/parallel_slants.svg "Good and Bad Examples of Slants"
+[apertures]: ./assets/apertures.svg "Good and Bad Examples of Apertures"
+[connect]: ./assets/connecting_strips.svg "Good and Bad Examples of Connecting Strips"

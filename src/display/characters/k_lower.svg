@@ -12,19 +12,19 @@
    width="1e3"
    height="1e3"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="c_lower.svg"
+   sodipodi:docname="k_lower.svg"
    version="1.1"
    viewBox="0 0 264.58333 264.58334"
-   id="svg864">
+   id="svg13421">
   <defs
-     id="defs866" />
+     id="defs13423" />
   <sodipodi:namedview
      id="base"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:current-layer="g862"
-     inkscape:cx="-84.076445"
-     inkscape:cy="464.84544"
+     inkscape:current-layer="g13419"
+     inkscape:cx="151.16988"
+     inkscape:cy="469.35678"
      inkscape:document-units="mm"
      inkscape:guide-bbox="true"
      inkscape:lockguides="false"
@@ -36,7 +36,7 @@
      inkscape:window-width="1873"
      inkscape:window-x="47"
      inkscape:window-y="0"
-     inkscape:zoom="1"
+     inkscape:zoom="0.70710678"
      pagecolor="#ffffff"
      showgrid="true"
      showguides="true"
@@ -48,17 +48,17 @@
        spacingy="22.048611"
        type="xygrid"
        units="px"
-       id="grid851" />
+       id="grid13408" />
     <sodipodi:guide
        inkscape:color="rgb(0,0,255)"
        inkscape:label=""
        inkscape:locked="false"
        orientation="0,1"
        position="-16.933333,66.145834"
-       id="guide853" />
+       id="guide13410" />
   </sodipodi:namedview>
   <metadata
-     id="metadata856">
+     id="metadata13413">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -73,12 +73,23 @@
      transform="translate(0,-32.41665)"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1"
-     id="g862">
+     id="g13419">
+    <path
+       d="m 0,230.85415 c 0,0 0,-154.340277 0,-154.340277 l 22.04861,-22.048611 0,154.340278 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       id="path13415"
+       style="stroke-width:1.41421342" />
+    <path
+       d="M 66.14583,54.465262 V 120.6111 l 22.04861,-22.048616 0,-22.048611 z"
+       inkscape:connector-curvature="0"
+       id="path13417"
+       sodipodi:nodetypes="ccccc" />
     <path
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 22.04861,230.85415 66.14583,0 -22.04861,-22.04861 -44.09722,0 v -66.14583 l 44.09722,0 22.04861,-22.04861 -66.14583,0 L 0,142.65971 v 66.14583 z"
-       id="path969"
+       d="m 44.09722,120.6111 h 22.04861 l 22.04861,22.04861 0,66.14583 h 22.04861 l -22.04861,22.04861 -22.04861,-22.04861 0,-66.14583 H 44.09722 Z"
+       id="path13968"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccc" />
+       sodipodi:nodetypes="cccccccccc" />
   </g>
 </svg>

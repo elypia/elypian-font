@@ -26,11 +26,12 @@ please rename your derivative work so it does not conflict with this.
 animations such as GIFs, found in the `./assets/` directory, are not under the aforementioned license; all rights are reserved by Elypia CIC.** 
 
 [discord]: https://discord.gg/hprGMaM "Discord Invite"
-[discord-members]: https://discordapp.com/api/guilds/184657525990359041/widget.png "Discord Shield"
-[donate-shield]: https://img.shields.io/badge/Elypia-Donate-blueviolet "Donate Shield"
 [elypia-donate]: https://elypia.org/donate "Donate to Elypia"
-[FontForge]: https://fontforge.github.io/en-US/ "FontForge"
+[FontForge]: https://fontforge.github.io/ "FontForge"
 [GitHub repository here]: https://github.com/fontforge "FontForge on GitHub"
 [SIL Open Font License]: https://scripts.sil.org/OFL "Official License Page"
 [TL;DR]: https://tldrlegal.com/license/open-font-license-(ofl)-explained "TL;DR of License"
 [CONTRIBUTING.md]: ./CONTRIBUTING.md "Contribute to the Elypian Font"
+
+[discord-members]: https://discordapp.com/api/guilds/184657525990359041/widget.png "Discord Shield"
+[donate-shield]: https://img.shields.io/badge/Elypia-Donate-blueviolet "Donate Shield"
