@@ -61,7 +61,8 @@ will only ever be filled completely, or half-filled from opposite corners.
 > so there must be at least two grid-cell of space between parallel slants.
 
 ![apertures]
-> There is no requirement of the height of apertures, however, the width of all aperatures must be consistently 2 grid-cells wide.
+> There is no requirement of the height of apertures, however, the width of all aperatures must be consistently 2 grid-cells wide for
+smaller characters such as lowercase letters, or 3 grid-cells wide for large characters like numbers or uppercase letters.
 
 ### Connecting Strips
 * If a slant occurs between two strips that represent the same character,
