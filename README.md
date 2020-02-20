@@ -23,7 +23,8 @@ don't be afraid to derive or reference from this project however you want, but
 please rename your derivative work so it does not conflict with this.
 
 **All files including videos, models, audio, bitmaps, vectors, and 
-animations such as GIFs, found in the `./assets/` directory, are not under the aforementioned license; all rights are reserved by Elypia CIC.** 
+animations such as GIFs, found in the `./assets/` directory, are not under the
+aforementioned license; all rights are reserved by Elypia CIC.** 
 
 [matrix]: https://matrix.to/#/+elypia:matrix.org "Matrix Invite"
 [discord]: https://discord.gg/hprGMaM "Discord Invite"
