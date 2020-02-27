@@ -34,7 +34,7 @@ D: Original Designer
 N: Jennifer Falco
 E: jen@elypia.org
 W: https://elypia.org/
-D: Created Vectors, Font Mastering
+D: Created Vectors
 
 N: Seth Falco
 E: seth@elypia.org

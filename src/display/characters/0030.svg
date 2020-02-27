@@ -11,61 +11,62 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1e3"
    height="1e3"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="0030.svg"
    version="1.1"
    viewBox="0 0 264.58333 264.58334"
-   id="svg864">
+   id="svg5208">
   <defs
-     id="defs866" />
+     id="defs5210" />
   <sodipodi:namedview
      id="base"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:current-layer="g862"
-     inkscape:cx="39.707077"
-     inkscape:cy="636.73557"
+     inkscape:current-layer="g5206"
+     inkscape:cx="77.461466"
+     inkscape:cy="596.47773"
      inkscape:document-units="mm"
      inkscape:guide-bbox="true"
      inkscape:lockguides="false"
      inkscape:pagecheckerboard="true"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-height="1043"
+     inkscape:window-height="1017"
      inkscape:window-maximized="1"
-     inkscape:window-width="1873"
-     inkscape:window-x="47"
-     inkscape:window-y="0"
+     inkscape:window-width="1920"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
      inkscape:zoom="0.70710678"
      pagecolor="#ffffff"
      showgrid="true"
      showguides="true"
-     units="px">
+     units="px"
+     inkscape:snap-grids="true">
     <inkscape:grid
        empspacing="0"
        originy="0"
-       spacingx="22.04861"
-       spacingy="22.048611"
+       spacingx="18.898809"
+       spacingy="18.898809"
        type="xygrid"
        units="px"
-       id="grid851" />
+       id="grid5195" />
     <sodipodi:guide
        inkscape:color="rgb(0,0,255)"
        inkscape:label=""
        inkscape:locked="false"
        orientation="0,1"
-       position="-16.933333,66.145834"
-       id="guide853" />
+       position="-18.898809,56.696427"
+       id="guide5197" />
   </sodipodi:namedview>
   <metadata
-     id="metadata856">
+     id="metadata5200">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -73,17 +74,16 @@
      transform="translate(0,-32.41665)"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1"
-     id="g862">
+     id="g5206">
     <path
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 0,32.416651 V 208.80554 l 22.04861,22.04861 H 66.14583 L 44.09722,208.80554 H 22.04861 V 54.465262 Z"
-       id="path1961"
+       style="fill:#000000;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="M 0,70.214276 18.898809,89.113085 V 221.40474 h 18.898809 l 18.898809,18.89881 H 18.898809 L 0,221.40474 Z"
+       id="path2359"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 44.09722,54.465262 66.14583,32.416651 h 22.04861 l 22.04861,22.048612 V 208.80554 H 88.19444 V 188.11438 54.465262 Z"
-       id="path1963"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccc" />
+       style="fill:#000000;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="M 75.595236,240.30355 94.494045,221.40474 V 89.113085 L 75.595236,70.214276 H 56.696427 L 37.797618,89.113085 H 75.595236 V 240.30355"
+       id="path2361"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
