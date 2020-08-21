@@ -1,4 +1,8 @@
-# Elypian Font [![Matrix]][matrix-community] [![Discord]][discord-guild] [![Donate]][elypia-donate]
+<div align="center">
+
+# Elypian Font
+[![Matrix]][matrix-community] [![Discord]][discord-guild] [![Donate]][elypia-donate]
+</div>
 
 ## About
 A font based on the Elypia logo to write more sexy things to go with it.  
@@ -22,9 +26,9 @@ This project is licensed under the [SIL Open Font License] ([TL;DR]),
 don't be afraid to derive or reference from this project however you want, but 
 please rename your derivative work so it does not conflict with this.
 
-**All files including videos, models, audio, bitmaps, vectors, and 
-animations such as GIFs, found in the `./assets/` directory, are not under the
-aforementioned license; all rights are reserved by Elypia CIC.** 
+**The repository includes our trade name and registered trademarks, 
+which are not granted under the license. Please do not use these 
+except as required to describe the origin of work.** 
 
 [matrix-community]: https://matrix.to/#/+elypia:matrix.org "Matrix Invite"
 [discord-guild]: https://discord.gg/hprGMaM "Discord Invite"
@@ -35,6 +39,6 @@ aforementioned license; all rights are reserved by Elypia CIC.**
 [TL;DR]: https://tldrlegal.com/license/open-font-license-(ofl)-explained "TL;DR of License"
 [CONTRIBUTING.md]: ./CONTRIBUTING.md "Contribute to the Elypian Font"
 
-[Matrix]: https://img.shields.io/matrix/elypia-general:matrix.org?logo=matrix "Matrix Shield"
-[Discord]: https://discordapp.com/api/guilds/184657525990359041/widget.png "Discord Shield"
-[Donate]: https://img.shields.io/badge/Elypia-Donate-blueviolet "Donate Shield"
+[Matrix]: https://img.shields.io/matrix/elypia:matrix.org?logo=matrix "Matrix Shield"
+[Discord]: https://discord.com/api/guilds/184657525990359041/widget.png "Discord Shield"
+[Donate]: https://img.shields.io/badge/elypia-donate-blueviolet "Donate Shield"
